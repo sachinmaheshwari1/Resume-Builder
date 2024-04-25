@@ -1,0 +1,36 @@
+.Item {
+
+  position: relative;
+  justify-items: center;
+  align-items: center;
+}
+
+.Item:hover::after {
+  content: "Use Template";
+  text-decoration: solid;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 200px;
+  right: 40px;
+  padding: 10px;
+  background-color: #25addb;
+  border-radius: 5px;
+  font-size: 15px;
+  color: #333333;
+  box-shadow: #333333;
+ 
+  
+}
+
+.Item:hover {
+
+  box-shadow: #333333;
+  opacity: .9;
+ 
+
+}
+
+#con {
+  height: 350px;
+  width: 300px;
+}
