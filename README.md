@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Resume-Builder (AlmaBetter__Capstone__Project)
 
 ├── public/
@@ -114,3 +115,6 @@
 
 
 
+=======
+# Resume-Builder
+>>>>>>> origin/master
