@@ -1,0 +1,5 @@
+export const UPDATE_INFO="UPDATE_INFO"
+export const TEMPLATE_1="TEMPLATE_1"
+export const TEMPLATE_2="TEMPLATE_2"
+export const TEMPLATE_3="TEMPLATE_3"
+export const TEMPLATE_4="TEMPLATE_4"

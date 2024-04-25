@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Resume-Builder (AlmaBetter__Capstone__Project)
 
 ├── public/
@@ -74,47 +73,3 @@
 └── store/
     └── store.js
 
-
-
-
-
-## Introduction
-* Resume@builder is a web application where anyone can create resume with ease and choose from different available templates.
-* It has two tabs : 1) Resume Templates (Home Page) , 2) About us 
-* Before downloading we have a preview option to view your resume.
-* You can download resumes to the local hard drive.
-
-
-## Used in this project:
-* React-Router-Dom
-* Material UI
-* React-Redux
-* Store
-* React-Avatar-edit
-* Vanilla CSS
-* JSX
-* React-Hook-Forms
-* Jspdf converter
-* Redux 
-* Images
-
-
-## Pages
-* Home (Resume Templates) <br/> -Choose one from the available templates ;
- <br/> -Navigated to details filling page 
-* About us
-
-*__Live Link__* <br/>
-<b> https://resumebuilder02.netlify.app/</b>
-
-</hr>
-
-*__Demo Video__* </br>
-<b>https://www.youtube.com/watch?v=vHYAhyo6f0U</b>
-
-
-
-
-=======
-# Resume-Builder
->>>>>>> origin/master
